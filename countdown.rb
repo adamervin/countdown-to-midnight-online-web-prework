@@ -6,7 +6,8 @@ end
   "HAPPY NEW YEAR!"
 end
 
-def sleep(1)
+def sleep(num_secs)
+  sleep.1
   
   
   
