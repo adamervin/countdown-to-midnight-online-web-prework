@@ -9,7 +9,7 @@ end
 def sleep(num_secs)
   while num > 0 
   puts "#{num} SECOND(S)!"
-  
+   sleep.1
   num -= 1
 end
   "HAPPY NEW YEAR!"
