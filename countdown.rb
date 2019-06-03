@@ -6,7 +6,7 @@ end
   "HAPPY NEW YEAR!"
 end
 
-def sleep(num_secs)
+def sleep(num)
   while num > 0 
   puts "#{num} SECOND(S)!"
    sleep(1)
